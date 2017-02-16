@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_192f913c60c0fbc8b7340ec004ab87a881c6a3fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_130852259c93e9f22e25afac1923e66762b4aa94.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_fe528169118606007155c73abb850692668fe7e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_81de84e42f7f4763ab2344c2a426c804b72a5987.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="166c076c255b8c0aac1dd6c6a504c340042018c4">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_873938253f21bcf024424a4d110b9f9015f57d1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_0602d11a33d742a3198216d2e5ad26e6bdf0a2a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_0fffcd66a5dc3232c8196503aaa0cb1548bda7a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_c6743e130d35fbd0f6b6d22d48c759deba8d3a1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_7ec16713d32b972664c355bfdab19cb0280c4450.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_66c288aafa7c9585d17ec5f6f1ba34b3bf975284.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_4f82a35d28aee997d91a0e924a1cbd66f8bb9bbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_e60a159e27146cccddc9ce59b1c97b989aaaecad.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e3bf5d1b8c46e4df49ec1b6e7056c43db999d114">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\instant-run_bbde73da73a668a827fef04c6f097f8d30f659ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\S10062870\AndroidStudioProjects\HelloWorld2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_78d85bd1eba2833c2d66f05039da449f417ed03d.jar" />
+    </item>
+
+</items>
